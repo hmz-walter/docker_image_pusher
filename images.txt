@@ -5,7 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-busybox:1.28
-poorunga/go-echo:latest
+apache/airflow:2.10.3-python3.9
+--platform=linux/amd64  linux/arm64
 
 

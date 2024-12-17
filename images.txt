@@ -5,5 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-kubeedge/cloudcore:v1.19.0
---platform=linux/arm64 linux/amd64
+kubeedge/edgemesh-agent:v1.17.0 --platform=linux/arm64

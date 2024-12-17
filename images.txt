@@ -5,5 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-apache/airflow:2.10.3-python3.9
---platform=linux/arm64
+kubeedge/cloudcore:v1.19.0
+--platform=linux/arm64 linux/amd64

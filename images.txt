@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-kubeedge/edgemesh-agent:v1.17.0 --platform=linux/arm64
+--platform=linux/arm64 luxonis/depthai-library:latest

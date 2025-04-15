@@ -7,4 +7,8 @@
 #--platform=linux/arm64 poorunga/go-echo:latest 
 #--platform=linux/arm64 busybox:1.28
 
-ultralytics/yolov5:v7.0
+bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
+bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
+bde2020/hadoop-resourcemanager:2.0.0-hadoop3.2.1-java8
+bde2020/hadoop-nodemanager:2.0.0-hadoop3.2.1-java8
+bde2020/hadoop-historyserver:2.0.0-hadoop3.2.1-java8

@@ -8,4 +8,4 @@
 #--platform=linux/arm64 busybox:1.28
 
 # pytorch/pytorch:1.13.1-cuda11.6-cudnn8-devel
-openjdk:8-jre-slim
+lfnovo/open_notebook:v1-latest-single

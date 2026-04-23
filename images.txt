@@ -8,4 +8,5 @@
 #--platform=linux/arm64 busybox:1.28
 
 # pytorch/pytorch:1.13.1-cuda11.6-cudnn8-devel
-crowdsecurity/crowdsec:latest
+crowdsecurity/controller:v1.13.2
+crowdsecurity/lua-bouncer-plugin:latest

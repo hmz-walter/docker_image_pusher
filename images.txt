@@ -8,5 +8,11 @@
 #--platform=linux/arm64 busybox:1.28
 
 # pytorch/pytorch:1.13.1-cuda11.6-cudnn8-devel
-crowdsecurity/controller:v1.13.2
-crowdsecurity/lua-bouncer-plugin:latest
+
+docker.io/falcosecurity/falco:0.43.1
+docker.io/falcosecurity/falco-driver-loader:0.43.1
+docker.io/falcosecurity/falcoctl:0.12.2
+falcosecurity/falcosidekick:2.32.0
+falcosecurity/falcosidekick-ui:2.2.0
+redis/redis-stack:7.2.0-v11
+redis/redis-stack:7.2.0-v11
